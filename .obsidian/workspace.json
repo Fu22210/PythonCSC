@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "72d67217339817c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1141fecc18559542",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d0a1af7f707d5ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basics and Types.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basics and Types"
+            }
+          },
+          {
+            "id": "96d3abb8f5f7594e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basics if else elif.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basics if else elif"
+            }
+          },
+          {
+            "id": "1ef552d25b76a9ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cycles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cycles"
+            }
+          },
+          {
+            "id": "4af1e3e5dda3c99e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Functions"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a10db149c9faac2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddcbb725c4e4c5bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2273d7c181366835",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "ba53e6021eb8590e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "7071c04121dd6107",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3c634bfd516abdda",
+    "type": "split",
+    "children": [
+      {
+        "id": "90fe9ad002f18124",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6117c14368147f15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Functions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Functions"
+            }
+          },
+          {
+            "id": "37215f57758c22d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Functions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Functions"
+            }
+          },
+          {
+            "id": "21e69807ff47b97b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "1a2438412acda03f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "3cd36e9ca1287f70",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Functions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Functions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "4af1e3e5dda3c99e",
+  "lastOpenFiles": [
+    "Cycles.md",
+    "Decorator.md",
+    "Functions.md",
+    "Снимок экрана 2026-03-25 в 11.59.41.png",
+    "Снимок экрана 2026-03-25 в 11.38.13.png",
+    "Снимок экрана 2026-03-25 в 09.44.15.png",
+    "Collections.md",
+    "Без названия 2",
+    "Без названия 1",
+    "Без названия",
+    "Basics if else elif.md",
+    "Basics and Types.md",
+    "examples/deco1.py",
+    "examples/Untitled.ipynb",
+    "examples",
+    "Области видимости.md",
+    "Untitled.ipynb"
+  ]
+}
